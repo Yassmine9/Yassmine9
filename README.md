@@ -60,8 +60,16 @@ RAG-based assistant that answers questions about my experience and projects, int
 *I build AI systems that are not just technically sound — but usable and impactful.*
 ## GitHub Stats
 
-![Yassmine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yassmine9&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yassmine9&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Yassmine9&theme=tokyonight&hide_border=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Yassmine9&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassmine9&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Yassmine9&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
