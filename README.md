@@ -18,7 +18,7 @@ I build intelligent systems and full-stack applications that combine modern AI w
 
 | AI / ML | Backend | Frontend | Databases | Languages |
 |---------|---------|----------|-----------|-----------|
-| RAG · GraphRAG · LoRA · RAGAS · LangGraph | FastAPI · Django · Flask | React · Ionic | MySQL · MongoDB | Python · Java · C/C++ |
+| RAG · GraphRAG · LoRA · RAGAS · LangGraph |  Django · Flask | React · Ionic | MySQL · MongoDB | Python · Java · C/C++ |
 
 ---
 
